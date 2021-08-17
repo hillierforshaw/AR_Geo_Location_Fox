@@ -1,1 +1,4 @@
-# AR_Geo_Locationmh48b6
+# AR_Geo_Location_Fox
+GeoLocation: Find the Fox
+
+Set longitude & latitude in index.html then spot the fox
